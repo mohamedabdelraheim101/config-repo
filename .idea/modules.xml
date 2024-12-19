@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Config-Server.iml" filepath="$PROJECT_DIR$/.idea/Config-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Config-Server/Config-Server.iml" filepath="$PROJECT_DIR$/Config-Server/Config-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/config-repo.iml" filepath="$PROJECT_DIR$/.idea/config-repo.iml" />
     </modules>
   </component>
 </project>
